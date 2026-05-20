@@ -1,0 +1,20 @@
+# ESP-IDF build files
+/build/
+/sdkconfig.old
+/sdkconfig
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# Temporary files
+*.log
+*.bin
+*.elf
+*.map
+*.pyc
+__pycache__/
+
+# OS files
+.DS_Store
+Thumbs.db
